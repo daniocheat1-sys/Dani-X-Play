@@ -1,0 +1,7 @@
+{
+  "name": "Dani-X Listen",
+  "description": "Dani-X Listen: Your personalized music player with advanced AI features for music discovery, listening insights (Dani-X Wrap), image generation, and a conversational voice assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
